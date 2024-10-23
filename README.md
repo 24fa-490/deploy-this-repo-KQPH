@@ -26,6 +26,4 @@
 
 # Where am I deployed?
 
-<enter your URL here>
-
-
+https://deploy-this-repo-kqph-edtb7al0g-kyle-hos-projects.vercel.app/
